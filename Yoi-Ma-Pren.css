@@ -1,0 +1,251 @@
+.u-section-1 {
+  background-image: url("images/background.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 854px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Dancing Script";
+  text-transform: none;
+  line-height: 1.2;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  background-image: none;
+  font-size: 6rem;
+  letter-spacing: normal;
+  margin: 85px 158px 0 122px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Dancing Script";
+  text-transform: none;
+  line-height: 0.8;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  background-image: none;
+  font-size: 6rem;
+  margin: 68px 224px 0 483px;
+}
+
+.u-section-1 .u-text-3 {
+  background-image: none;
+  font-family: "Dancing Script";
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-size: 4.5rem;
+  margin: -76px 570px 0 252px;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: "Dancing Script";
+  text-transform: none;
+  line-height: 1.2;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  background-image: none;
+  font-size: 6rem;
+  letter-spacing: normal;
+  margin: 31px 122px 0 158px;
+}
+
+.u-section-1 .u-text-5 {
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  background-image: none;
+  font-family: "Dancing Script";
+  text-transform: none;
+  line-height: 79.2px;
+  font-weight: normal;
+  letter-spacing: normal;
+  font-size: 4.5rem;
+  margin: 48px 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 311px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 871px;
+    margin-top: -745px;
+    margin-right: 58px;
+    margin-left: 22px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 124px;
+    margin-left: 383px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 470px;
+    margin-left: 152px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 22px;
+    margin-left: 58px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 664px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 720px;
+    margin-top: -1117px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 600px;
+    margin-right: 74px;
+    margin-left: 213px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -630px;
+    margin-right: 360px;
+    margin-left: 42px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: 231px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 605px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
+    font-size: 3.75rem;
+    margin-top: -957px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3.75rem;
+    margin-top: 77px;
+    margin-right: 0;
+    margin-left: 107px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 3.75rem;
+    margin-top: 41px;
+    margin-right: 222px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-text-5 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 295px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    font-size: 2.25rem;
+    letter-spacing: 1px;
+    animation-duration: 1000ms;
+    margin-top: 45px;
+    margin-right: 17px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.875rem;
+    animation-duration: 1000ms;
+    margin-top: 21px;
+    margin-right: 35px;
+    margin-left: 143px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    font-size: 1.875rem;
+    margin-top: -28px;
+    margin-right: 170px;
+    margin-left: 21px;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 1.875rem;
+    animation-duration: 1000ms;
+    margin-top: 11px;
+    margin-right: -58px;
+    margin-left: -50px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: auto;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+    animation-duration: 1000ms;
+    margin: 12px -58px 28px -50px;
+  }
+}.u-section-2 {
+  background-image: url("images/background-menyambut-ramadhan-5.jpg");
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 638px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 75px 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 526px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 403px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 302px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 831px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 172px;
+    margin-bottom: 0;
+  }
+}
